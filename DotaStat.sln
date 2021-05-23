@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotaStat", "DotaStat\DotaStat.csproj", "{199B96C5-0B48-40EB-93B5-C1FC2412B59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199B96C5-0B48-40EB-93B5-C1FC2412B59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199B96C5-0B48-40EB-93B5-C1FC2412B59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199B96C5-0B48-40EB-93B5-C1FC2412B59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199B96C5-0B48-40EB-93B5-C1FC2412B59B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86811196-AA95-4D23-9029-717D15E897B3}
+	EndGlobalSection
+EndGlobal

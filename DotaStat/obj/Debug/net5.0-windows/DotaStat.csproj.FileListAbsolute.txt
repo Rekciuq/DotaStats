@@ -1,0 +1,40 @@
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.exe
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.deps.json
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.runtimeconfig.json
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.runtimeconfig.dev.json
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.dll
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\ref\DotaStat.dll
+D:\Project\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.pdb
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csprojAssemblyReference.cache
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Form1.resources
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csproj.GenerateResource.cache
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.AssemblyInfoInputs.cache
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.AssemblyInfo.cs
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csproj.CoreCompileInputs.cache
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.dll
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\ref\DotaStat.dll
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.pdb
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.genruntimeconfig.cache
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Stat.resources
+D:\Project\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Properties.Resources.resources
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.exe
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.deps.json
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.runtimeconfig.json
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.runtimeconfig.dev.json
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.dll
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\ref\DotaStat.dll
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\bin\Debug\net5.0-windows\DotaStat.pdb
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csprojAssemblyReference.cache
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Form1.resources
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Properties.Resources.resources
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.Stat.resources
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.AssemblyInfoInputs.cache
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.AssemblyInfo.cs
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.dll
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\ref\DotaStat.dll
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.pdb
+C:\Users\danil\Downloads\Telegram Desktop\DotaStat\DotaStat\obj\Debug\net5.0-windows\DotaStat.genruntimeconfig.cache
